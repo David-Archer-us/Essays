@@ -1,44 +1,79 @@
-Guosheng (David Archer) Zhang                                                                                github.com/David-Archer-us
-Pleasant Hill, CA 94523 ∙ (415)-988-5238 ∙ david.archer.us@gmail.com  
-Fully Work Authorized ∙ No Visa Sponsorship Required 
+Guosheng (David) Zhang
 
-EDUCATION Phi Kappa Phi & Phi Theta Kappa memberships
-B.S. in Computer Science GPA 3.89	  2017-2021
-San Jose State University, San Jose, California
-Diablo Valley College, Pleasant Hill, California 
-
-MBA	  2000-2002
-Jinan University, Guangzhou, China
-Equivalent to U. S. master’s degree from an accredited institution according to World Education Services, New York, 2016 
-
-PROFESSIONAL EXPERIENCE
-Software Engineering professional with 2 years of experience in C++, Java, and Python, seeking to utilize the skills and knowledge in programming and data analysis. Also, strategic management professional with 7 years of experience in strategic planning and control
-
-Programming 
-Honor Grad from Diablo Valley College and Senior in San Jose State University now	2017 - 2021      
-
-Some course projects about data structures, C++, Java, Python, and Assembly Language. 
-Connecting chess program using python, can beat all my friends (Python).
-Finding duplicate in million entries in less than a second (C++).
-Facebook stereotype (Java)
-
-Management
-Director of Strategy Department 	2002 - 2009 
-Guangzhou Mechanical Engineering Research Institute, Guangzhou, China
-Comprehensive first grade research institute; subsidiary of China National Machinery Industry Corporation
-
-Created and oversaw the first comprehensive strategic plan as well as plans for 4 main departments resulting in a five-fold turnover of $160M in a time period of five years; the core of the strategic plan were budget distribution and market research
-Edited and issued a quarterly internal strategy magazine with readership comprising on mid-high-level managers under the CINOMACH umbrella.
-Introduced important policies and documents based on business requirements every 6 months
-			
-
-AWARDS	 
-Statistics Awards: National Award of Statistics, the Second (2002) and Fourth (2004) prizes, China
-Patent: Magnetic Floating Swing Bed (2005)
+guosheng.zhang@sjsu.edu	
+Authorized to work in the US for any employer.
 
 
-PROFESSIONAL DEVELOPMENT	 
-Programming with Python Specialist (2019)
-Python institute, Essentials, Professionals(parts) (2020)
+EDUCATION	
+ 
+San Jose State University, San Jose, CA
+President's Scholar
+September 2019 - December 2021
+B.S. in Computer Science
+
+Diablo Valley College, Pleasant Hill, CA
+Graduated with Honors
+February 2017 - May 2019
+A.S. in Computer Science
+
+RELEVANT COURSES
+
+Introduction to Programming, 
+Adv Programming with C and C++, 
+IPhone and IPad App Dev Begin, 
+Prog Design and Data Structures, 
+Introduction to UNIX and Linux, 
+Assembly Lang Prog/Comp Org, 
+Object Oriented Programming C++, 
+Programming with Java, 
+Operating System, 
+Programming Paradigms, 
+Intro to Artificial Intelligence, 
+Intro to Database Management System, 
+Python Professional
+
+ 
+SELECTED  ACADEMIC PROJECTS
+
+Memory Tracer                                                                                                                        Jun 2020-Jul 2020
+o	Traced the memory consumption of every process and prevented any memory leaks.
+o	Read thousands of commands from a file, repeatedly wrote to a LinkedList and reallocate the memory locations, finally freed all memory, wrote the system log.
+o	Tech Stacks: C, allocation, reallocation and deallocation, LinkedList, stack, Valgrind
+Process Manager                                                                                                                      Jun 2020-Jul 2020
+o	Provided babysit service for every process including the orphan ones.
+o	Started up thousands of processes to execute commands, each in one process and wrote the logs.
+o	Tech Stacks: C, System signals, Linux/Unix
+Connect Five Chess App                                                                                                        Feb 2019-Apr 2020
+o	Predicted the next 3 steps of opponent by calculating the win-possibilities of all possible steps 
+o	Checked the board to find the best step for every move 
+o	Tech Stacks: Python, Tkinter, NumPy, Pandas, Matplotlib  
+Facebook Prototype                                                                                                              Apr 2020-May 2020
+o	Built a social network to people for making friends by checking friends’ friends lists.
+o	Provided functions such as setting photos, changing descriptions, adding/removing friends, and other necessary social actions.
+o	Tech Stacks: JavaFX, Java, MongoDB, Spring MVN
+Multi-Thread and Multi-Lock Manager                                                                                Jun 2020-Jul 2020
+o	Managed dynamically racing threads which were sharing memory by locking critical sections.
+o	Checked the process ID and thread ID at every step and wrote to the system log.
+o	Tech Stacks: C, System call, Concurrency, thread-safe, memory leak
+Gate Level Implementation for a 32-bit System                                                                  Apr 2020-May 2020
+o	Built a fully functional 32-bit virtual processor, including ALU, Register file, Memory, and Data bus. It supported a certain instruction set. All code is gate level.
+o	Implemented a fully functional system on the processor, passed R-type, I-type, J-type instruction test 
+o	Tech Stacks: Verilog, Simulation, processor behavior, gate level programming
+Class Explorer                                                                                                                       Mar 2020-Apr 2020
+o	Built an APP to detect a file in a file system and printed out all classes with their attributes and methods 
+o	Analyzed the file system and traced the inheritance and evolution of a file family 
+o	Tech Stacks: Java, JavaFx, AWS
+
+TECH STACKS
+ 
+Programming Languages Tools: C, C++, Java, Javascript, Python, CSS, Swift, Git, HTML5, SQL, Verilog
+Tools: React, Spring MVN, IOS programming,  Tomcat, JavaFX, BootStrap, Valgrind, Tkinter
+Databases: SQL, Mysql, MongoDB, Redis, OracleDB 
+Environments: Linux (Ubuntu), Windows, Mac OS, Amazon EC2
+
+   
+
+
+
 
 

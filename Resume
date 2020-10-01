@@ -7,7 +7,7 @@ EDUCATION
  
 San Jose State University, San Jose, CA
 President's Scholar, GPA 3.9/4.0
-September 2019 - December 2021
+August 2019 - May 2021
 B.S. in Computer Science
 
 Diablo Valley College, Pleasant Hill, CA
@@ -34,23 +34,23 @@ Python Professional
  
 SELECTED  ACADEMIC PROJECTS
 
-Memory Tracer                                                                                                                        Jun 2020-Jul 2020
+Memory Tracer                                                                                                                    Jun 2020-Jul 2020
 o	Traced the memory consumption of every process and prevented any memory leaks.
 o	Read thousands of commands from a file, repeatedly wrote to a LinkedList and reallocate the memory locations, finally freed all memory, wrote the system log.
 o	Tech Stacks: C, allocation, reallocation and deallocation, LinkedList, stack, Valgrind
-Process Manager                                                                                                                      Jun 2020-Jul 2020
+Process Manager                                                                                                                  Jun 2020-Jul 2020
 o	Provided babysit service for every process including the orphan ones.
 o	Started up thousands of processes to execute commands, each in one process and wrote the logs.
 o	Tech Stacks: C, System signals, Linux/Unix
-Connect Five Chess App                                                                                                        Feb 2019-Apr 2020
-o	Predicted the next 3 steps of opponent by calculating the win-possibilities of all possible steps 
-o	Checked the board to find the best step for every move 
-o	Tech Stacks: Python, Tkinter, NumPy, Pandas, Matplotlib  
-Facebook Prototype                                                                                                              Apr 2020-May 2020
+Three-Character URL Shortener                                                                                                    Feb 2019-Apr 2020
+o	Utilize entire Unicode 140,000 characters to make shorter URLs
+o	Design algorithm to achieve only 3 characters to define 2.7*1015 real URLs, less than half of those commercial services
+o	Tech Stacks: Python, Tkinter, NumPy, Pandas  
+Facebook Prototype                                                                                                               Apr 2020-May 2020
 o	Built a social network to people for making friends by checking friends’ friends lists.
 o	Provided functions such as setting photos, changing descriptions, adding/removing friends, and other necessary social actions.
 o	Tech Stacks: JavaFX, Java, MongoDB, Spring MVN
-Multi-Thread and Multi-Lock Manager                                                                                Jun 2020-Jul 2020
+Multi-Thread and Multi-Lock Manager                                                                                              Jun 2020-Jul 2020
 o	Managed dynamically racing threads which were sharing memory by locking critical sections.
 o	Checked the process ID and thread ID at every step and wrote to the system log.
 o	Tech Stacks: C, System call, Concurrency, thread-safe, memory leak
@@ -58,7 +58,7 @@ Gate Level Implementation for a 32-bit System                                   
 o	Built a fully functional 32-bit virtual processor, including ALU, Register file, Memory, and Data bus. It supported a certain instruction set. All code is gate level.
 o	Implemented a fully functional system on the processor, passed R-type, I-type, J-type instruction test 
 o	Tech Stacks: Verilog, Simulation, processor behavior, gate level programming
-Class Explorer                                                                                                                       Mar 2020-Apr 2020
+Class Explorer                                                                                                                   Mar 2020-Apr 2020
 o	Built an APP to detect a file in a file system and printed out all classes with their attributes and methods 
 o	Analyzed the file system and traced the inheritance and evolution of a file family 
 o	Tech Stacks: Java, JavaFx, AWS
